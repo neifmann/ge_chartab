@@ -1,0 +1,161 @@
+<tr><td>Aclla</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Aileen</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Aisha</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Aither</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Angelic</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Anita</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ankita</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Archbishop</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Asoka</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Bane</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Battle Cook Panfilo</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Battle Smith Idge</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Battlefield Claude</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Becky</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Belith</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Bianca</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Blood Navy Kano</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Blue Flame Ludin</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Bridgette</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cadet Adriana</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cadet Amy</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cadet Elisa</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cadet Leonele</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cadet Rob</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Canna</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cannon Shooter Claire</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Carmen</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cassandra</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cecille</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Charlotte</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Chief Alchemist Veronif</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Chloe</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Christina</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Chung Ha</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ciel</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Code Name C</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Code Name L</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Code Name T</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Code Name V</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Conductor Rio</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Consul Dietrich</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Crusader Daria</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Cutie Claire</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Daisy</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Delfina</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Deluca</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Designer Karjalainen</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Divine Hammer Bryan</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Dolores</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Doom Slave</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Drachen</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Elizabeth</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ellie</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ellie Craig</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Emilia the Sage</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Empyrium Judith</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Enforcer Anies</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Erica</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Fenrir</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Freesia</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Freya</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Giltine</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Guardian Ania</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Guardian Coa</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Guardian Lu</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Guardian Nar</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Harriot Airheart</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Heka</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Hermes</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Hildegard</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Illusion</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Issac</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ivy</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Jaina</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Jane</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Jin</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Joshua</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Juliana</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Kael</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Kane</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Kay</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Kevin</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Kirna</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Kiss</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lada</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lady Rachel</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Laval</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lead Manager Rachel</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Levine</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lhote</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Liung</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lora Constans</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Loraine</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Loreta</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lu</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Lysette</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Maria</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Mediator Berthe</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Meister Lorch</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Mercenary Calyce</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Meriel</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Miha</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Miho</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Mireille</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Misa</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Mistress Baselrane</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Montoro</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Moon</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Navas</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Nicole</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Nike</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Nina</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ornella</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>P.Queen Grandma</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Pirate Adelina</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Psyche</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Queen Cerny Joshua</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rachel Sheffield</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rakicia</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ralph</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rascel</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Reaper Sariel</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rebecca</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Resistance Caisse</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Resistance Heyran</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Resistance JD</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Risky</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rob Clemens</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rosie</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Royal Guard Delfina</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Rubiana</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sakura</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sakura Hime</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Scarlet</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Scavenger Yeganeh</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Senior Magic Corps Dolores</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Seol Hwa</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sergeant Barrol</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sharon the Sage</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sherry</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Silaen</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Silver Flash Lynn</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sniper Bernelli</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Snowflake Berthe and Charles</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Snowflake Cherlyn</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Snowflake Montoro</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Soho The Wind</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sorang</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Sorscha</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Spy Olivia</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Student President Ludin</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Supreme Commander Kano</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Tom</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Tora</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Vanessa</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Vanshee Natalie</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Violet</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>White Wolf</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Winona</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Zaved</td><td>True</td><td>USA</td><td>95.5</td></tr>
+<tr><td>Ziz</td><td>True</td><td>USA</td><td>95.5</td></tr>
